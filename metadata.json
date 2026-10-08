@@ -1,0 +1,7 @@
+{
+  "name": "EduTrackk",
+  "description": "An automated attendance system designed for rural schools featuring AI-powered handwriting recognition for digitizing paper registers and automated parent communication.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
