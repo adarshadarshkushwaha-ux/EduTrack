@@ -17,15 +17,4 @@ Open **AI Copilot** and click **Load 4-week demo data** to fill the dashboard, r
 
 
 ## 📸 Project Screenshots
-
-![EduTrack Screenshot 1](./edutrack%202026-10-08%20at%2020.25.21.png)
-
-![EduTrack Screenshot 2](./edutrack%202026-10-08%20at%2020.25.24.png)
-
-![EduTrack Screenshot 3](./edutrack%202026-10-08%20at%2020.25.27.png)
-
-![EduTrack Screenshot 4](./edutrack%202026-10-08%20at%2020.25.31.png)
-
-![EduTrack Screenshot 5](./edutrack%202026-10-08%20at%2020.25.37.png)
-
-![EduTrack Screenshot 6](./edutrack%202026-10-08%20at%2020.25.40.png)
+![alt text](edutrack-screen-1.png) ![alt text](edutrack-screen-2.png) ![alt text](edutrack-screen-3.png) ![alt text](edutrack-screen-4.png) ![alt text](edutrack-screen-5.png) ![alt text](edutrack-screen-6.png) ![alt text](edutrack-screen-7.png)
